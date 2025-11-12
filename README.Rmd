@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkgr is to learn how to create a R package and to use github.
+MAKE CONFLICT. The goal of mypkgr is to learn how to create a R package and to use github.
 
 ## Installation
 
