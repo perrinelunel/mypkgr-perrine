@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-11-12T15:49Z
+last_built: 2025-11-12T16:01Z
 urls:
   reference: https://perrinelunel.github.io/mypkgr-perrine/reference
   article: https://perrinelunel.github.io/mypkgr-perrine/articles
