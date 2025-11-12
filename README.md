@@ -4,6 +4,8 @@
 # mypkgr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/perrinelunel/mypkgr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/perrinelunel/mypkgr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 PULL REQUEST ?
