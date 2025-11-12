@@ -6,6 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+PULL REQUEST ?
+
 Is there any conflict ??? The goal of mypkgr is to learn how to create a
 R package and to use github.
 
