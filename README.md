@@ -9,6 +9,9 @@
 Is there any conflict ??? The goal of mypkgr is to learn how to create a
 R package and to use github.
 
+MAKE CONFLICT. The goal of mypkgr is to learn how to create a R package
+and to use github.
+
 ## Installation
 
 You can install the development version of mypkgr from
