@@ -33,7 +33,7 @@ mvnpdf <- function(x, mean = rep(0, nrow(x)),
   y <- NULL
   for (j in 1:n) {
     yj <- ((2*pi)**(-p/2)) * detVarcovM**(-0.5) * exp(-0.5 * t(xMinusMean[,j]) %*% invVarcovM %*% xMinusMean[,j])
-    y <- c(y, yj)
+    y <- c(y, yj) # concatenate each time is very long !!
     }
 
   if (Log) {

@@ -20,8 +20,8 @@ mb
 
 ggplot(mb, aes(x = expr, y = time, fill = expr)) +
   geom_violin() +
-  scale_fill_manual(values = c("maroon", "navy"),labels = c("dmvnorm", "mvnpdf")) +
-
+  scale_fill_manual(values = c("maroon", "navy"), labels = c("dmvnorm", "mvnpdf")) +
+  scale_x_discrete(labels = c("dmvnorm", "mvnpdf"))
 
 
 n <- 100
